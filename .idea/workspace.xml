@@ -1,11 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc459b1-3e8e-4192-9db2-a4b215a14b22" name="Default Changelist" comment="" />
+    <list default="true" id="dfc459b1-3e8e-4192-9db2-a4b215a14b22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/suspense.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/authorization-card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/authorized-card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/result/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/result/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/test/answer-card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/test/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/test/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/account-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/file-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/readable-account-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/test-data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/use-account-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/writable-account-service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jy8SNHivd3z0QXxkeF3SvkffZK" />
   <component name="ProjectViewState">
@@ -13,12 +66,28 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="$USER_HOME$/.nvm/versions/node/v12.18.3/bin/node" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/my-app/node_modules/typescript/lib" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/utils" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -28,17 +97,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604764969546</updated>
-      <workItem from="1604764970596" duration="249000" />
+      <workItem from="1604764970596" duration="687000" />
+      <workItem from="1604765670460" duration="16661000" />
+      <workItem from="1604782353291" duration="10884000" />
+      <workItem from="1604822357596" duration="10994000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2648" y="301" width="526" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604765152710">
+    <state x="2761" y="444" width="612" height="576" key="#ESLint" timestamp="1604782304919">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2648" y="301" width="526" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604765152710" />
+    <state x="2761" y="444" width="612" height="576" key="#ESLint/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604782304919" />
+    <state x="2616" y="351" width="589" height="411" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604766035366">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2616" y="351" width="589" height="411" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604766035366" />
+    <state x="2648" y="301" width="526" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604765932839">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2648" y="301" width="526" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604765932839" />
+    <state x="2404" y="188" width="1024" height="737" key="SettingsEditor" timestamp="1604766934376">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2404" y="188" width="1024" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604766934376" />
+    <state x="2580" y="252" key="run.anything.popup" timestamp="1604824776395">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2580" y="252" key="run.anything.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604824776395" />
   </component>
 </project>
